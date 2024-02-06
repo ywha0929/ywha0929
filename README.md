@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://github.com/LeeZEun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=LeeZEun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+
+<a href="https://github.com/LeeZEun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeZEun&layout=compact&theme=nord&hide_border=true" /></a> </br></br>
 
 <!--
 **ywha0929/ywha0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
